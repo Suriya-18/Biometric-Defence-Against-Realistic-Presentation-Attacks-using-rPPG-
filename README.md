@@ -133,7 +133,7 @@ The model was trained with the following parameters:
 
 ## Authors
 
-- SURIYA M
+- SURIYA M & DEEPAK DEVAKUMAR S
 
 ## Acknowledgments
 
